@@ -1,0 +1,17 @@
+{
+  "name": "moh",
+  "version": "1.0.0",
+  "description": "Booking Meeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed",
+  "license": "ISC",
+  "devDependencies": {
+    "webextension-polyfill": "^0.5.0"
+  },
+  "dependencies": {
+    "sweetalert": "^2.1.2"
+  }
+}
